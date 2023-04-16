@@ -1,5 +1,5 @@
 # Logging
-This is a simple Logging System using fmt
+This is a simple Logging System using [fmt](https://github.com/fmtlib/fmt)
 
 
 
@@ -16,9 +16,11 @@ Current capabilities are:
 
 Call the Macros:
 
-`LINFO("Some string to print and a literal to show: {}", 1);`
+```c++
+LINFO("Some string to print and a literal to show: {}", 1);
 
-`LINFO("Some other string to print and a variable to show: {}", foo);`
+LINFO("Some other string to print and a variable to show: {}", foo);
+```
 
 ## Results
 
