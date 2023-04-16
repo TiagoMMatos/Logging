@@ -19,7 +19,7 @@ Call the Macros:
 ```c++
 LINFO("Some string to print and a literal to show: {}", 1);
 
-LINFO("Some other string to print and a variable to show: {}", foo);
+LDEBUG("Some other string to print and a variable to show: {}", foo);
 ```
 
 ## Results
