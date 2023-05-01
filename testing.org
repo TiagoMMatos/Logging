@@ -1,0 +1,10 @@
+#+TITLE: Testing Magit and Bash on Git
+#+AUTHOR: Tiago Matos
+
+
+
+
+#+begin_src bash
+  @echo off
+  
+#+end_src
